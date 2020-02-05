@@ -2,6 +2,7 @@ package _07_riddler;
 //    Copyright (c) The League of Amazing Programmers 2013-2019
 //    Level 0
 
+
 import javax.swing.JOptionPane;
 
 public class TheRiddler {
@@ -34,7 +35,7 @@ else {
 }
 
 // 2. Make a pop up to show the score.
-	JOptionPane.showMessageDialog(null, score);																													
+	JOptionPane.showMessageDialog(null,"your score is "+ score);																													
 	}
 }
 
