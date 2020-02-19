@@ -1,0 +1,101 @@
+1. Fill in the blanks
+String favoriteHobby = "programming";
+Int numberOfToes = 10;
+Int degreesInARightAngle = 90;
+Int myAge = 11;
+String Berlin = "Java";
+double Pie = 3.14159;
+2. Initialize these variables...
+    String whatIWantToBeWhenIGrowUp= "animator";
+    int facebookFriends= "3";
+    String myBirthday= "september"
+    int sidesInATriangle ="3"
+3. Declare and initialize variables for...
+   String preasant= "mirror";
+   String meal= "FOOD";
+   int sleeptime= 9;
+	int robot 3;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+1. Complete the for loop below so that it prints out the numbers 1­10.
+for(int s= 1 ; s < 11; s++){ 
+
+
+
+}
+2. Complete the for loop below so that it counts down and prints out 75 to 50.
+for(              ;             ;             )
+{ 
+
+
+
+
+}
+3. Describe briefly what each part of the for loop does: 
+for( a ; b ; c )
+{               } 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a) 
+b) 
+c) 
